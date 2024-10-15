@@ -8,7 +8,7 @@ This repository is for keeping track of my daily LeetCode CN problem solutions, 
 
 | 日期       | 题目名称  | 难度  | 分數          | 题目链接                                       | 讲解视频链接                                   |
 | ---------- | -------- | ----- | ------------ | ---------------------------------------------- | ---------------------------------------------- |
-| 2024-10-15 | 3200. 三角形的最大高度 | Easy  | 1451          | [LeetCode CN 题目](https://leetcode.cn/problems/maximum-height-of-a-triangle)      |               |
+| 2024-10-15 | 3200. 三角形的最大高度 | Easy  | 1451          | [LeetCode CN 题目](https://leetcode.cn/problems/maximum-height-of-a-triangle)      | 待更新       |
 | 2024-10-14 | 887. 鸡蛋掉落 | Hard  | 2377          | [LeetCode CN 题目](https://leetcode.cn/problems/super-egg-drop)      | [B站视频](https://bilibili.com)               |
 
 ## 更新计划 | Update Plan
@@ -19,5 +19,5 @@ The table will be updated daily with the problem, difficulty, AtCoder-like score
 
 ## License
 
-本项目基于 MIT License 进行授权。
+本项目基于 MIT License 进行授权。  
 This project is licensed under the MIT License.

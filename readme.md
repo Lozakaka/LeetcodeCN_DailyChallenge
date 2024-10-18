@@ -6,10 +6,16 @@ This repository is for keeping track of my daily LeetCode CN problem solutions, 
 
 ## 題目記錄 | Problem Record
 
-| 日期       | 題目名稱              | 難度  | 分數  | 題目連結                                                       | 講解視頻連結                                   |
-| ---------- | --------------------- | ----- | ----- | -------------------------------------------------------------- | ---------------------------------------------- |
-| 2024-10-15 | 3200. 三角形的最大高度 | Easy  | 1451  | [LeetCode CN 題目](https://leetcode.cn/problems/maximum-height-of-a-triangle) | 無                                         |
-| 2024-10-14 | 887. 雞蛋掉落          | Hard  | 2377  | [LeetCode CN 題目](https://leetcode.cn/problems/super-egg-drop)  | [B站視頻](https://bilibili.com)               |
+| 日期       | 題目名稱    | 難度  | 分數  | 題目連結       | 講解視頻連結                                   |
+| ---------- | ---------- | ------| ----- | ------------ | ---------------------------------------------- |
+| 2024-10-19 | 3192. 使二进制数组全部等于 1 的最少操作次数 II | Medium  | 1433  | [LeetCode CN 題目](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |[B站視頻](https://bilibili.com)|
+| 2024-10-18 | 3191. 使二进制数组全部等于 1 的最少操作次数 I | Medium  | 1312  | [LeetCode CN 題目](https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) |[B站視頻](https://bilibili.com)|  
+| 2024-10-17 | 3193. 统计逆序对的数目 | Hard  | 2266  | [LeetCode CN 題目](https://leetcode.cn/problems/count-the-number-of-inversions) |[B站視頻](https://bilibili.com)|
+| 2024-10-16 | 3194. 最小元素和最大元素的最小平均值 | Easy  | 1195  | [LeetCode CN 題目](https://leetcode.cn/problems/minimum-average-of-smallest-and-largest-elements) |[B站視頻](https://bilibili.com)|
+| 2024-10-15 | 3200. 三角形的最大高度 | Easy  | 1451  | [LeetCode CN 題目](https://leetcode.cn/problems/maximum-height-of-a-triangle) |[B站視頻](https://bilibili.com)|
+| 2024-10-14 | 887. 雞蛋掉落          | Hard  | 2377  | [LeetCode CN 題目](https://leetcode.cn/problems/super-egg-drop)               | [B站視頻](https://bilibili.com)|
+| 2024-10-14 | 1884. 鸡蛋掉落-两枚鸡蛋     | Medium  | - | [LeetCode CN 題目](https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors)               | [B站視頻](https://bilibili.com)|
+
 
 ## 更新計劃 | Update Plan
 
